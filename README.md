@@ -1,2 +1,3 @@
-This project is to make website as front-end based on udemy course.
-Based on appearance of website from udemy, it will be made by myself.
+This project is to make website by using bootstrap mainly. the sources and idea is from udemy course based on appearance of that. it will be made by myself.
+
+https://jamesjeong713.github.io/bootstrap-web-matching/
